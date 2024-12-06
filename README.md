@@ -1,3 +1,7 @@
-# streamlit-apps
+# Machine Learning Projects
 
-[#](https://www.youtube.com/watch?v=JwSS70SZdyM&t=8561s&pp=ygUgc3RyZWFtbGl0IHByb2plY3RzIGZyZWVjb2RlIGNhbXA%3D)
+This repository contains a collection of machine learning projects that I have worked on ✨.
+
+## Author
+
+[Aryan Khurana](https://github.com/AryanK1511)
